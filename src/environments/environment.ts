@@ -13,7 +13,7 @@ export const environment = {
     messagingSenderId: "181170156834",
     appId: "1:181170156834:web:25110f51e5654e94"
   },
-  baseURL: 'http://localhost/ProtectoraWebApiDepliegue/public/src',
+  baseURL: 'http://localhost/maskotakApi/public/src',
 };
 
 /*
